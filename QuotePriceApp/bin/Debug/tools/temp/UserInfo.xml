@@ -2,18 +2,13 @@
 
 <customerInfo>
 
-  <Info  Name="冯亚冲" Tel="15001107794"  >
+  <Info  Name="tom" Tel="123"  >
 
   </Info>
-   <Info  Name="刘梅岭" Tel="15910200328"  >
+   <Info  Name="jim" Tel="456"  >
 
   </Info>
-    <Info  Name="赵瑞" Tel="18810268425"  >
-
-  </Info>
-   <Info  Name="刘敏" Tel="13810189154"  >
-
-  </Info>
+  
 
  
 </customerInfo>
